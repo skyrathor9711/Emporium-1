@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.bgimage{background-blend-mode: soft-light ;
+    background-image:url(3.jpeg);
+background-size:100% /110%;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+  background-size: cover;
+  overflow:auto;
+
+}
+.bggimage{
+    background-image:url(15.jpg);
+background-size: 100%/100%;
+width: 100%;
+height:101%;}
+.header{
+    width: 100%;
+    height:15%;
+    
+    
+    
+}
+.leftheader{
+    width:35%;
+    line-height: 80px;
+    float:left;
+    color:orangered;
+    padding-left:1px;
+    font-size: 30px;
+    margin-left:38%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-language-override: unset;
+}
+.rightheader{
+    
+    width:100%;
+    height:50px;
+    float:right;
+    margin-top:55px;
+    margin-bottom:25px;
+  
+}
+.rightheader ul li {
+    display:inline-block;
+    list-style: none;
+    font-size:12px;
+    color: white;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: "montserrate",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.rightheader ul{
+    margin-left:1000px;
+}
+#first{
+    color:orange;
+    font-weight: bold
+}
+.rightheader ul li:hover{
+    color:orange;
+}
+.leftheader:hover{
+    color:orange;
+}
+.slogan{
+background-color:rgba(0,0,0,0.5);
+    font-size:50px;
+    color:orange;
+    margin-top:400px;
+    width:100%;
+    text-align:center;
+    font-family: "montserrate",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#buttontwo{
+    background-color:rgba(0,0,0,0.5);
+    border:none;
+    font-size:20px;
+    text-transform: uppercase;
+    float:right;
+    margin-right:15px;
+    line-height:100%;
+    width: 150px;
+    border:3px solid orange;
+    margin-top:25px;
+    font-family: "montserrate",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:white;
+}
+#buttontwo:hover{
+    color:orange;
+}
+
+
+.
+.signin:hover{
+    color:orange;
+}
+
+#buttontwo:hover{
+    box-shadow: 2px 1px 2px 3px #99ccff;
+    background:#5900a6;
+    color:black;
+    transition: background-color 1.15s ease-in-out, border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+  
+  }
+  

@@ -1,0 +1,142 @@
+body{
+  background-image:url(3.jpeg);;
+  background-repeat:no-repeat;
+  background-size: cover;
+  overflow:auto;
+
+}
+
+.container{
+  font-family:robot,sans-serif;
+  background-image:url(2.jpeg);
+  border-style: 1px solid grey;
+  margin:0 auto;
+  text-align:center;
+  opacity: 0.8;
+  margin-top: 67px;
+  box-shadow:2px 5px 5px 0px #eee;
+  max-width: 500px;
+  padding-top: 10px;
+  height:420px;
+  margin-top:166px;
+  overflow: auto;
+background-size:cover;
+}
+
+
+.lastname{
+margin-left:1px;
+font-family:sans-serif;
+font-size: 14px;
+color:black;
+margin-top:10px;
+
+}
+
+
+
+.firstname{
+  margin-left:1px;
+font-family:sans-serif;
+font-size: 14px;
+color:black;
+margin-top:5px;
+
+
+}
+
+
+
+#lname{
+  margin-top:5px;
+
+}
+
+
+.heading{
+  text-decoration: :bold;
+  text-align:center;
+  font-size:30px;
+  color:orange;
+  padding-top:10px;
+
+}
+
+
+
+#email{
+  margin-top:5px;
+
+}
+
+
+.mail{
+  margin-left:44px;
+  font-family:sans-serif;
+  color:black;
+  font-size:14px;
+  margin-top:13px;
+
+}
+
+
+
+.pass{
+  margin-left:44px;
+  font-family:sans-serif;
+  color:black;
+  font-size:14px;
+  margin-top:13px;
+ 
+}
+
+
+
+#password{
+  margin-top:6px;
+
+}
+
+
+.signupbtn{
+  margin-left:41px;
+  font-family:sans-serif;
+  color:white;
+  font-size:15px;
+  margin-top:16px;
+  border:1px solid white;
+  background-color:rgba(0,0,0,0.5);
+  width:32%;
+  box-shadow: 0px 2px 2px 0px white;
+}
+
+
+
+.signupbtn:hover{
+  box-shadow: 2px 1px 2px 3px #99ccff;
+  background:#5900a6;
+  color:black;
+  transition: background-color 1.15s ease-in-out, border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+
+}
+
+
+.cancelbtn{
+  margin-left:41px;
+  font-family:sans-serif;
+  color:white;
+  font-size:15px;
+  margin-top:16px;
+  border:1px solid white;
+  background-color:rgba(0,0,0,0.5);
+  width:32%;
+  box-shadow: 0px 2px 2px 0px white;
+}
+
+.cancelbtn:hover{
+  box-shadow: 2px 1px 2px 3px #99ccff;
+  background:#5900a6;
+  color:black;
+  transition: background-color 1.15s ease-in-out, border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+
+}
